@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4"
+  }
+}
